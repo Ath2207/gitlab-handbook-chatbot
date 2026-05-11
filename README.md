@@ -19,7 +19,7 @@ A RAG-based chatbot that answers questions grounded in GitLab's public Handbook 
 - Google AI API key from https://aistudio.google.com/
 
 ### 2. Clone the repo
-git clone https://github.com/YOUR_USERNAME/gitlab-handbook-chatbot.git
+git clone https://github.com/Ath2207/gitlab-handbook-chatbot.git
 
 ### 3. Create virtual environment
 python -m venv venv
