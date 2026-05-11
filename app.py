@@ -71,6 +71,11 @@ st.caption("Ask anything about GitLab's values, processes, engineering practices
 
 if not api_key:
     api_key = os.getenv("GOOGLE_API_KEY")
+    if not api_key:
+        try:
+            api_key = st.secrets["GOOGLE_API_KEY"]
+        except:
+            pass
 
 if not api_key:
     st.warning("Enter your Google AI API Key in the sidebar to begin.")
