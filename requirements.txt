@@ -1,0 +1,15 @@
+streamlit
+google-generativeai
+langchain
+langchain-community
+langchain-google-genai
+langchain-chroma
+langchain-text-splitters
+langchain-classic 
+langchain-huggingface 
+beautifulsoup4
+chromadb
+lxml
+sentence-transformers 
+python-dotenv 
+torchvision 
