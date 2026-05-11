@@ -1,4 +1,4 @@
-# ?? GitLab Handbook AI Assistant
+# GitLab Handbook AI Assistant
 
 A RAG-based chatbot that answers questions grounded in GitLab's public Handbook and Direction pages.
 
